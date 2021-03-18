@@ -1,5 +1,5 @@
 //Create a myPetsArray array here
-myPetsArray = ["Dog", "Cat"];
+var myPetsArray = ["Dog", "Cat"];
 //End of myPetsArray array
 function myArrayFunction(myPets){
     var myNewPets = [...myPets];
